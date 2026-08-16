@@ -15,8 +15,8 @@ namespace config {
     export const PIN_BTN_B = 1055
     export const PIN_BTN_MENU = 1056
 
-    export const PIN_JACK_SND = DAL.P0_0
-
+    export const PIN_JACK_SND = DAL.P0_2
+    
     export const PIN_DISPLAY_SCK = DAL.P0_17
     export const PIN_DISPLAY_MOSI = DAL.P0_13
     export const PIN_DISPLAY_MISO = DAL.P0_1
